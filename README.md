@@ -20,9 +20,9 @@ If you have any questions, feel free to reach out to me on Discord (Hilberath).
 <!-- Social Networks -->
 <h3 align="center">Social Networks:</h3>
 <p align="center">
-<a href="https://www.youtube.com/@Hilberath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hilberath" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Hilberath" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/youtube.svg" alt="hilberath" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/david_hilberath_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Hilberath" height="30" width="40" /></a>
-<a href="https://discord.gg/aHsaN3SwBC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hilberath" height="30" width="40" /></a>
+<a href="https://discord.gg/aHsaN3SwBC" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/discord.svg" alt="Hilberath" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
