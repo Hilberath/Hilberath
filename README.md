@@ -37,3 +37,4 @@ If you have any questions, feel free to reach out to me on Discord (Hilberath).
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/git.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/figma.svg" alt="figma" width="40" height="40"/> </a>
+</p>
