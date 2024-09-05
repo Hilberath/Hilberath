@@ -24,28 +24,3 @@ If you have any questions, feel free to reach out to me on Discord (Hilberath).
 <a href="https://www.twitch.tv/david_hilberath_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Hilberath" height="30" width="40" /></a>
 <a href="https://discord.gg/aHsaN3SwBC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hilberath" height="30" width="40" /></a>
 </p>
-
-<!-- GitHub Repositories und Zukünftige Projekte in zwei Spalten -->
-<div style="display: flex; justify-content: space-around;">
-
-  <!-- GitHub Repositories -->
-  <div>
-    <h3 align="center">My Projects</h3>
-    <ul align="left">
-      <li><a href="https://github.com/Hilberath/altv-vehicle-spawner" target="blank">Altv-Vehicle-Spawner</a></li>
-      <li><a href="https://github.com/Hilberath/altv-location-teleporter" target="blank">Altv-Location-Teleporter</a></li>
-      <li><a href="https://github.com/Hilberath/altv-model-changer" target="blank">AltV-Model-Changer</a></li>
-      <li><a href="https://github.com/Hilberath/altv-elevator" target="blank">AltV-Elevator</a></li>
-    </ul>
-  </div>
-
-  <!-- Zukünftige Projekte -->
-  <div>
-    <h3 align="center">Upcoming Projects</h3>
-    <ul align="left">
-      <li>AltV-Admin Panel | An administration tool for an AltV server</li>
-      <li>AltV Gas Station | A small UI for the Gas Station</li>
-    </ul>
-  </div>
-
-</div>
