@@ -1,40 +1,49 @@
-<h3 align="center">David Hilberath</h3>
-<h4 align="center">Frontend/Backend Developer</h4>
+<h1 align="center">David Hilberath</h1>
+<h3 align="center">Frontend Developer</h3>
 
 <!-- Profil Bild -->
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/Hilberath/Hilberath/main/foto.jpeg" alt="csharp" width="250" height="325"/>
+  <img src="https://raw.githubusercontent.com/Hilberath/Hilberath/main/foto.jpeg" alt="David Hilberath" width="250" height="325"/>
 </p>
 
-<!-- Über Mich -->
-<h3 align="center">About Me:</h3>
+<!-- About Me -->
+<h2 align="center">About Me</h2>
 <p align="center">
-Hello! I am David Hilberath. I am currently 32 years old and from Cologne, Germany. <br>
+  Hello! I am <strong>David Hilberath</strong>. I am currently 32 years old and from Cologne, Germany. <br>
 Here, I share my previous work, experiences, and organized notes. <br>
-In my free time, I usually pursue self-taught learning in web design and programming languages. Additionally, I explore the medium of film and engage in creative writing. <br>
+In my free time, I usually pursue self-taught learning in web design and programming languages. Additionally, <br>
+I explore the medium of film and engage in creative writing. <br>
 "Learning by doing" is one of my philosophies, which has greatly helped me in learning various languages.
 <br><br>
-If you have any questions, feel free to reach out to me on Discord (Hilberath).
+If you have any questions, feel free to reach out to me on Discord (<strong>Hilberath</strong>).
 </p>
 
-<!-- Social Networks -->
-<h3 align="center">Social Networks:</h3>
-<p align="center">
-<a href="https://www.youtube.com/@Hilberath" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/youtube.svg" alt="hilberath" height="30" width="40" /></a>
-<a href="https://www.twitch.tv/david_hilberath_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Hilberath" height="30" width="40" /></a>
-<a href="https://discord.gg/aHsaN3SwBC" target="blank"><img align="center" src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/discord.svg" alt="Hilberath" height="30" width="40" /></a>
-</p>
+<!-- Social Networks and Tools -->
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
 
-<h3 align="center">Languages and Tools:</h3>
+  <!-- Connect with Me -->
+  <div style="flex: 1; padding: 20px; border-radius: 10px; max-width: 350px;">
+    <h2 align="center">Connect with Me</h2>
+    <p align="center">
+      <a href="https://www.youtube.com/@Hilberath" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Hilberath YouTube" height="30" width="40" /></a>
+      <a href="https://www.twitch.tv/david_hilberath_dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="Hilberath Twitch" height="30" width="40" /></a>
+      <a href="https://discord.gg/aHsaN3SwBC" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Hilberath Discord" height="30" width="40" /></a>
+    </p>
+  </div>
 
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/html.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/css.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/php.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/mysql.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/mongodb.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/git.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/figma.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+  <!-- Languages and Tools -->
+  <div style="flex: 1; padding: 20px; border-radius: 10px; max-width: 350px;">
+    <h2 align="center">Languages and Tools</h2>
+    <p align="center">
+      <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/html.svg" alt="HTML5" width="40" height="40"/></a>
+      <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/css.svg" alt="CSS3" width="40" height="40"/></a>
+      <a href="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/javascript.svg" alt="JavaScript" width="40" height="40"/></a>
+      <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/php.svg" alt="PHP" width="40" height="40"/></a>
+      <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
+      <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/mysql.svg" alt="MySQL" width="40" height="40"/></a>
+      <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/git.svg" alt="Git" width="40" height="40"/></a>
+      <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/figma.svg" alt="Figma" width="40" height="40"/></a>
+    </p>
+  </div>
+
+</div>
