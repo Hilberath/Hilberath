@@ -18,19 +18,6 @@ I explore the medium of film and engage in creative writing. <br>
 If you have any questions, feel free to reach out to me on Discord (<strong>Hilberath</strong>).
 </p>
 
-<!-- Social Networks and Tools -->
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px;">
-
-  <!-- Connect with Me -->
-  <div style="flex: 1; padding: 20px; border-radius: 10px; max-width: 350px;">
-    <h2 align="center">Connect with Me</h2>
-    <p align="center">
-      <a href="https://www.youtube.com/@Hilberath" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/youtube.svg" alt="Hilberath YouTube" height="30" width="40" /></a>
-      <a href="https://www.twitch.tv/david_hilberath_dev" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/twitch.svg" alt="Hilberath Twitch" height="30" width="40" /></a>
-      <a href="https://discord.gg/aHsaN3SwBC" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/54370a4fb792d7f6556fd66dcbec1003133c35b8/Icons/SVG/discord.svg" alt="Hilberath Discord" height="30" width="40" /></a>
-    </p>
-  </div>
-
   <!-- Knowledge -->
   <div style="flex: 1; padding: 20px; border-radius: 10px; max-width: 350px;">
     <h2 align="center">Knowledge</h2>
