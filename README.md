@@ -31,9 +31,9 @@ If you have any questions, feel free to reach out to me on Discord (<strong>Hilb
     </p>
   </div>
 
-  <!-- Languages and Tools -->
+  <!-- Knowledge -->
   <div style="flex: 1; padding: 20px; border-radius: 10px; max-width: 350px;">
-    <h2 align="center">Languages and Tools</h2>
+    <h2 align="center">Knowledge</h2>
     <p align="center">
       <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/html.svg" alt="HTML5" width="40" height="40"/></a>
       <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/1dfbd633d9b5b18001aebaa05e5b9876182cc281/Icons/SVG/css.svg" alt="CSS3" width="40" height="40"/></a>
