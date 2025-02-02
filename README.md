@@ -1,7 +1,4 @@
-<h1 align="center">David Hilberath</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<!-- Profil Bild -->
+<!-- Profil Bild/Banner -->
 <p align="center">
   <img src="https://github.com/Hilberath/Hilberath/blob/main/banner.png?raw=true" alt="David Hilberath"/>
 </p>
