@@ -3,7 +3,7 @@
 
 <!-- Profil Bild -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hilberath/Hilberath/main/banner.jpeg" alt="David Hilberath"/>
+  <img src="https://github.com/Hilberath/Hilberath/blob/main/banner.png?raw=true" alt="David Hilberath"/>
 </p>
 
 <!-- About Me -->
