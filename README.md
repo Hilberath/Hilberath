@@ -43,6 +43,6 @@ If you have any questions, feel free to reach out to me on Discord (<strong>Hilb
   </div>
 <h2 align="center">✍️ Random Dev Quote</h2>
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" height="500px"/>
 
 </div>
