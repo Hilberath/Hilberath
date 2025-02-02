@@ -3,7 +3,7 @@
 
 <!-- Profil Bild -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hilberath/Hilberath/main/foto.jpeg" alt="David Hilberath" width="250" height="325"/>
+  <img src="https://raw.githubusercontent.com/Hilberath/Hilberath/main/banner.jpeg" alt="David Hilberath"/>
 </p>
 
 <!-- About Me -->
@@ -44,4 +44,8 @@ If you have any questions, feel free to reach out to me on Discord (<strong>Hilb
       <a href="https://about.gitea.com/" target="_blank"><img src="https://raw.githubusercontent.com/Hilberath/Network-Icons/55920328ebabce606d13fcc0182054df52e5c608/Icons/SVG/gitea.svg" alt="Gitea" width="40" height="40"/></a>
     </p>
   </div>
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
 </div>
