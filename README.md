@@ -6,7 +6,7 @@
 <!-- About Me -->
 <h2 align="center">About Me</h2>
 <p align="center">
-  Hello! I am <strong>David Hilberath</strong>. I am currently 32 years old and from Cologne, Germany. <br>
+  Hello! I am <strong>David Hilberath</strong>. I am currently 33 years old and from Cologne, Germany. <br>
 Here, I share my previous work, experiences, and organized notes. <br>
 In my free time, I usually pursue self-taught learning in web design and programming languages. Additionally, <br>
 I explore the medium of film and engage in creative writing. <br>
